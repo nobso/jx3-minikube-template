@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: gokubecon
+    - name: golang-http
     - name: node-http
     scheduler: in-repo
   slack:
